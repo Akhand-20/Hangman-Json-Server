@@ -1,0 +1,98 @@
+{
+    "words":[
+        {
+            "wordValue":"Mango",
+            "wordHint":"A fruit"
+        },
+
+        {
+            "wordValue":"Banana",
+            "wordHint":"A fruit"
+        },
+
+        {
+            "wordValue":"India",
+            "wordHint":"Country"
+        },
+
+        {
+            "wordValue":"London",
+            "wordHint":"City"
+        },
+
+        {
+            "wordValue":"Orange",
+            "wordHint":"A fruit"
+        },
+
+        {
+            "wordValue":"Elephant",
+            "wordHint":"A large animal"
+        },
+
+        {
+            "wordValue":"Paris",
+            "wordHint":"City"
+        },
+
+        {
+            "wordValue":"Mountain",
+            "wordHint":"Natural elevation of the earth's surface"
+        },
+
+        {
+            "wordValue":"Python",
+            "wordHint":"A programming language"
+        },
+
+        {
+            "wordValue":"Tiger",
+            "wordHint":"Striped predator"
+        },
+
+        {
+            "wordValue":"Ocean",
+            "wordHint":"Vast body of water"
+        },
+
+        {
+            "wordValue":"Guitar",
+            "wordHint":"Stringed instrument"
+        },
+
+        {
+            "wordValue":"Rose",
+            "wordHint":"Thorny flower"
+        },
+
+        {
+            "wordValue":"Computer",
+            "wordHint":"Electronic device"
+        },
+
+        {
+            "wordValue":"Sun",
+            "wordHint":"Bright star"
+        },
+
+        {
+            "wordValue":"Moon",
+            "wordHint":"Earth's satellite"
+        },
+
+        {
+            "wordValue":"Book",
+            "wordHint":"Collection of pages"
+        },
+
+        {
+            "wordValue":"Car",
+            "wordHint":"Four-wheeled vehicle"
+        },
+
+        {
+            "wordValue":"Tree",
+            "wordHint":"Tall plant"
+        }
+    ]
+}
