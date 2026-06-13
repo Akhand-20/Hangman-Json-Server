@@ -1,98 +1,312 @@
 {
-    "words":[
-        {
-            "wordValue":"Mango",
-            "wordHint":"A fruit"
-        },
-
-        {
-            "wordValue":"Banana",
-            "wordHint":"A fruit"
-        },
-
-        {
-            "wordValue":"India",
-            "wordHint":"Country"
-        },
-
-        {
-            "wordValue":"London",
-            "wordHint":"City"
-        },
-
-        {
-            "wordValue":"Orange",
-            "wordHint":"A fruit"
-        },
-
-        {
-            "wordValue":"Elephant",
-            "wordHint":"A large animal"
-        },
-
-        {
-            "wordValue":"Paris",
-            "wordHint":"City"
-        },
-
-        {
-            "wordValue":"Mountain",
-            "wordHint":"Natural elevation of the earth's surface"
-        },
-
-        {
-            "wordValue":"Python",
-            "wordHint":"A programming language"
-        },
-
-        {
-            "wordValue":"Tiger",
-            "wordHint":"Striped predator"
-        },
-
-        {
-            "wordValue":"Ocean",
-            "wordHint":"Vast body of water"
-        },
-
-        {
-            "wordValue":"Guitar",
-            "wordHint":"Stringed instrument"
-        },
-
-        {
-            "wordValue":"Rose",
-            "wordHint":"Thorny flower"
-        },
-
-        {
-            "wordValue":"Computer",
-            "wordHint":"Electronic device"
-        },
-
-        {
-            "wordValue":"Sun",
-            "wordHint":"Bright star"
-        },
-
-        {
-            "wordValue":"Moon",
-            "wordHint":"Earth's satellite"
-        },
-
-        {
-            "wordValue":"Book",
-            "wordHint":"Collection of pages"
-        },
-
-        {
-            "wordValue":"Car",
-            "wordHint":"Four-wheeled vehicle"
-        },
-
-        {
-            "wordValue":"Tree",
-            "wordHint":"Tall plant"
-        }
-    ]
+  "words": [
+    {
+      "wordValue": "Mango",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "Banana",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "Apple",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "Orange",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "Pineapple",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "Grapes",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "Watermelon",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "Papaya",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "Guava",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "Cherry",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "India",
+      "wordHint": "Country"
+    },
+    {
+      "wordValue": "Canada",
+      "wordHint": "Country"
+    },
+    {
+      "wordValue": "Germany",
+      "wordHint": "Country"
+    },
+    {
+      "wordValue": "France",
+      "wordHint": "Country"
+    },
+    {
+      "wordValue": "Brazil",
+      "wordHint": "Country"
+    },
+    {
+      "wordValue": "Japan",
+      "wordHint": "Country"
+    },
+    {
+      "wordValue": "Australia",
+      "wordHint": "Country"
+    },
+    {
+      "wordValue": "China",
+      "wordHint": "Country"
+    },
+    {
+      "wordValue": "Italy",
+      "wordHint": "Country"
+    },
+    {
+      "wordValue": "Spain",
+      "wordHint": "Country"
+    },
+    {
+      "wordValue": "London",
+      "wordHint": "City"
+    },
+    {
+      "wordValue": "Paris",
+      "wordHint": "City"
+    },
+    {
+      "wordValue": "Mumbai",
+      "wordHint": "City"
+    },
+    {
+      "wordValue": "Delhi",
+      "wordHint": "City"
+    },
+    {
+      "wordValue": "Tokyo",
+      "wordHint": "City"
+    },
+    {
+      "wordValue": "Berlin",
+      "wordHint": "City"
+    },
+    {
+      "wordValue": "Rome",
+      "wordHint": "City"
+    },
+    {
+      "wordValue": "Sydney",
+      "wordHint": "City"
+    },
+    {
+      "wordValue": "Toronto",
+      "wordHint": "City"
+    },
+    {
+      "wordValue": "Chicago",
+      "wordHint": "City"
+    },
+    {
+      "wordValue": "Elephant",
+      "wordHint": "A large animal"
+    },
+    {
+      "wordValue": "Tiger",
+      "wordHint": "Striped predator"
+    },
+    {
+      "wordValue": "Lion",
+      "wordHint": "King of the jungle"
+    },
+    {
+      "wordValue": "Leopard",
+      "wordHint": "Spotted predator"
+    },
+    {
+      "wordValue": "Giraffe",
+      "wordHint": "Tall animal"
+    },
+    {
+      "wordValue": "Zebra",
+      "wordHint": "Striped animal"
+    },
+    {
+      "wordValue": "Kangaroo",
+      "wordHint": "Australian animal"
+    },
+    {
+      "wordValue": "Penguin",
+      "wordHint": "Flightless bird"
+    },
+    {
+      "wordValue": "Dolphin",
+      "wordHint": "Intelligent marine mammal"
+    },
+    {
+      "wordValue": "Rabbit",
+      "wordHint": "Long-eared animal"
+    },
+    {
+      "wordValue": "Python",
+      "wordHint": "A programming language"
+    },
+    {
+      "wordValue": "Java",
+      "wordHint": "A programming language"
+    },
+    {
+      "wordValue": "React",
+      "wordHint": "JavaScript library"
+    },
+    {
+      "wordValue": "Nodejs",
+      "wordHint": "JavaScript runtime"
+    },
+    {
+      "wordValue": "MongoDB",
+      "wordHint": "NoSQL database"
+    },
+    {
+      "wordValue": "Express",
+      "wordHint": "Backend framework"
+    },
+    {
+      "wordValue": "Docker",
+      "wordHint": "Container platform"
+    },
+    {
+      "wordValue": "Kubernetes",
+      "wordHint": "Container orchestration"
+    },
+    {
+      "wordValue": "TypeScript",
+      "wordHint": "Typed JavaScript"
+    },
+    {
+      "wordValue": "GitHub",
+      "wordHint": "Code hosting platform"
+    },
+    {
+      "wordValue": "Computer",
+      "wordHint": "Electronic device"
+    },
+    {
+      "wordValue": "Keyboard",
+      "wordHint": "Typing device"
+    },
+    {
+      "wordValue": "Monitor",
+      "wordHint": "Display screen"
+    },
+    {
+      "wordValue": "Laptop",
+      "wordHint": "Portable computer"
+    },
+    {
+      "wordValue": "Camera",
+      "wordHint": "Image capturing device"
+    },
+    {
+      "wordValue": "Television",
+      "wordHint": "Entertainment device"
+    },
+    {
+      "wordValue": "Guitar",
+      "wordHint": "Stringed instrument"
+    },
+    {
+      "wordValue": "Piano",
+      "wordHint": "Musical instrument"
+    },
+    {
+      "wordValue": "Book",
+      "wordHint": "Collection of pages"
+    },
+    {
+      "wordValue": "Chair",
+      "wordHint": "Furniture item"
+    },
+    {
+      "wordValue": "Table",
+      "wordHint": "Furniture item"
+    },
+    {
+      "wordValue": "Mountain",
+      "wordHint": "Natural elevation of the earth's surface"
+    },
+    {
+      "wordValue": "Ocean",
+      "wordHint": "Vast body of water"
+    },
+    {
+      "wordValue": "River",
+      "wordHint": "Flowing water body"
+    },
+    {
+      "wordValue": "Desert",
+      "wordHint": "Dry region"
+    },
+    {
+      "wordValue": "Forest",
+      "wordHint": "Large area of trees"
+    },
+    {
+      "wordValue": "Valley",
+      "wordHint": "Low land between hills"
+    },
+    {
+      "wordValue": "Island",
+      "wordHint": "Land surrounded by water"
+    },
+    {
+      "wordValue": "Volcano",
+      "wordHint": "Mountain with lava"
+    },
+    {
+      "wordValue": "Sun",
+      "wordHint": "Bright star"
+    },
+    {
+      "wordValue": "Moon",
+      "wordHint": "Earth's satellite"
+    },
+    {
+      "wordValue": "Planet",
+      "wordHint": "Celestial body"
+    },
+    {
+      "wordValue": "Galaxy",
+      "wordHint": "Collection of stars"
+    },
+    {
+      "wordValue": "Comet",
+      "wordHint": "Icy space object"
+    },
+    {
+      "wordValue": "Astronaut",
+      "wordHint": "Space traveler"
+    },
+    {
+      "wordValue": "Rocket",
+      "wordHint": "Space vehicle"
+    },
+    {
+      "wordValue": "Satellite",
+      "wordHint": "Object orbiting a planet"
+    }
+  ]
 }
